@@ -1,2 +1,2 @@
-# asset-analyzer
-here goes description
+# Asset Analyzer
+## Project in progress!

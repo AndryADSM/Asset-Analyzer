@@ -1,6 +1,25 @@
 # Asset Analyzer
 
-🌐 Check this project on [my website](https://aadsm2355.wixsite.com/andryadsm/asset_analyzer)!
+🌐 Check this project on [my website](https://aadsm2355.wixsite.com/andryadsm/asset-analyzer)!
+
+## Files
+- **'analyses.ipynb'** has all the analyses and results made with the module.
+- 'asset_analyzer.ipynb' complete module in notebook file.
+- **'asset_analyzer.py'** complete module in python file.
+- 'asset_analyzer_class.ipynb' class features of the module in notebook file.
+- 'asset_analyzer_class.py' class features of the module in python file.
+- **'asset_analyzer_demo.ipynb'** is the demonstration of the features of the module.
+- 'asset_analyzer_func.ipynb' function features of the module in notebook file.
+- 'asset_analyzer_func.py' function features of the module in python file.
+- **'howto_import_custom_modules.ipynb'** has instructions for importing a custom module into your Google Colab noteboook.
+
+class files have the exact same functionality as the complete module but using only classes and methods.
+
+func file have the exact same functionality as the complete module but using only functions.
+
+Make sure to use the file type that better suits you, .ipynb or .py, note that they were made in Google Colab notebooks (.ipynb).
+
+---
 
 ### 📌 Type
 Independent, Tool Creation
@@ -10,10 +29,10 @@ Financial Markets, Investing & Trading
 
 ### 💻 Technologies
 - Python (Google Colab)
-- pandas
-- numpy
-- matplotlib
-- seaborn
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
 
 ### 🕹️ Skills
 - Data Analysis

@@ -5,7 +5,7 @@
 ## Files
 - **'analyses.ipynb'** has all the analyses and results made with the module.
 - 'asset_analyzer.ipynb' complete module in notebook file.
-- **'asset_analyzer.py'** complete module in python file.
+- **'asset_analyzer.py'** complete module in python file. (most likely what you look for)
 - 'asset_analyzer_class.ipynb' class features of the module in notebook file.
 - 'asset_analyzer_class.py' class features of the module in python file.
 - **'asset_analyzer_demo.ipynb'** is the demonstration of the features of the module.

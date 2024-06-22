@@ -50,7 +50,7 @@ Financial Markets, Investing & Trading
 
 ⤵️ The use of the module is encouraged for your own projects in Google Colab or other environments by downloading and importing it, a how-to file is available in GitHub. There are several variations, .py and .ipynb files, and with only the classes or only the functions.
 
-💡 The module has detailed documentation, examples, code comments and section structure for developers who might be interested in taking a look. There is also a demonstration file showcasing its capabilities.
+💡 The module features detailed documentation, examples, code comments and section structure for developers who might be interested in taking a look. There is also a demonstration file showcasing its capabilities.
 
 ---
 
